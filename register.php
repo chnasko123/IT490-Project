@@ -3,7 +3,7 @@
 // who install php /apache on this computer.
 // 
 // Include config file
-require_once "config.php";
+require_once "config1.php";
  
 // Define variables and initialize with empty values
 $email = $username = $phone_number = $password = $repeat_password = "";
